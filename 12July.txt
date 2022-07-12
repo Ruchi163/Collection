@@ -1,0 +1,6 @@
+Patterns
+recursion fibo
+power recursion
+series print sum
+decimal to binary
+reverse a no.
