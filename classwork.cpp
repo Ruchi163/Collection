@@ -11,6 +11,7 @@ default parameters
 
 
 #include<iostream>
+#include <bits/stdc++.h>
 using namespace std;
 void sum(int a ,int b,int c=5){
     int s=a+b+c;
